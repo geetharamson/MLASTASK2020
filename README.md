@@ -1,12 +1,12 @@
 # MLASTASK2020
-Machine Learning And Statistics module, Data Analytics Course, GMIT 2020
+Machine Learning And Statistics module, Data Analytics Course, GMIT 2020 ___
 
 
 
-This repository contains one single jupyter notebook called Tasks.ipynb which contains my solutions to four tasks that were assigned in this semester. Each task is contained within its own section of the notebook with the references, I had used for research is at the end of each task section.
-# HOW TO DOWNLOAD THE REPOSITORY
-1.Go to GitHub.
-2.Go to my repository: [GitHub](https://github.com/geetharamson/MLASTASK2020.git)
+This repository contains one single jupyter notebook called Tasks.ipynb which contains my solutions to four tasks that were assigned in this semester. Each task is contained within its own section of the notebook with the references, I had used for research is at the end of each task section.---
+## HOW TO DOWNLOAD THE REPOSITORY
+* Go to GitHub.
+* Go to my repository: [GitHub](https://github.com/geetharamson/MLASTASK2020.git)
 3.Click the [`Code`](#code) button which is colored green.
 4.Click on HTTPS and copy the link that is shown.
 5.Open the command line on your machine, navigate to the directory where you would like to clone the repository down to.
