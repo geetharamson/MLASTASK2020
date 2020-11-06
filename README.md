@@ -1,6 +1,6 @@
 # MLASTASK2020
 ### Author : GEETHA KARTHIKESAN (G00376320@gmit.ie)
-<https://github.com/geetharamson/MLASTASK2020.git>
+### Repository: [GitHub](https://github.com/geetharamson/MLASTASK2020.git)
 Machine Learning And Statistics module, Data Analytics Course, GMIT 2020
 This repository contains one single jupyter notebook called Tasks.ipynb which contains my solutions to four tasks that were assigned in this semester. Each task is  contained within its own section of the notebook with the references, I had used for research is at the end of each task section. 
 
