@@ -39,3 +39,15 @@ Jupyter Notebooks should open in your default web browser
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise. You should research the task first and include references and a description of your algorithm.
 
 #Task 2
+
+
+#Task 3
+
+
+
+#Task 4
+
+
+
+
+                                     :rocket :+1
