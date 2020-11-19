@@ -50,7 +50,7 @@ The Chi-squared test for independence is a statistical hypothesis test like a t-
 | Blue Collar   |    30   |   50   |    51  |  20  |  151    |
 | No Collar     |    30   |   40   |    45  |  35  |  150    |
 | Total         |    150  |  150   |   200  | 150  |  650    |
-| ------------- | --------|------- | ------ |----- | --------|
+
 
 
 
@@ -64,4 +64,4 @@ performs the above calculation but in the STDDEV.S calculation the division is b
 
 
 
- :rocket :+1
+ :rocket:+1
