@@ -56,7 +56,7 @@ The Chi-squared test for independence is a statistical hypothesis test like a t-
 
 # Task 3
 
-The standard deviation of an array of numbers x is calculated using numpy as np.sqrt(np.sum((x - np.mean(x))**2)/len(x)) . 
+The standard deviation of an array of numbers x is calculated using numpy as np.sqrt(np.sum((x - np.mean(x))** 2)/len(x)) . 
 However, Microsoft Excel has two different versions of the standard deviation calculation, STDDEV.P and STDDEV.S. The STDDEV.P function 
 performs the above calculation but in the STDDEV.S calculation the division is by len(x)-1 rather than len(x).
 
@@ -64,4 +64,4 @@ performs the above calculation but in the STDDEV.S calculation the division is b
 
 
 
- :rocket:+1
+ Geetha Karhikesan :rocket:
