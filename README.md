@@ -29,13 +29,13 @@ ___________________________
 ______________________________________________________________
 The software can be downloaded and run on a machine as follows:
 
->Clone the repository with the following command
+Clone the repository with the following command
 >> git clone [GitHub](https://github.com/geetharamson/MLASTASK2020.git)
 
-> Run Jupyter Notebooks from the repository with the following command:
+Run Jupyter Notebooks from the repository with the following command:
 >> jupyter notebook
 
-Jupyter Notebooks should open in your default web browser
+Jupyter Notebooks should open in your default web browser!
 
 # Task 1
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise. You should research the task first and include references and a description of your algorithm.
@@ -62,6 +62,7 @@ performs the above calculation but in the STDDEV.S calculation the division is b
 
 # Task 4
 
+Use **scikit-learn** to apply  *k-means clustering to Fisher’s famous Iris data set*. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
 
- Geetha Karhikesan :rocket:
+ Geetha Karthikesan :rocket:
