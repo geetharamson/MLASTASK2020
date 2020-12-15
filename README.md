@@ -2,7 +2,7 @@
 ### Author : GEETHA KARTHIKESAN (G00376320@gmit.ie)
 ### Repository: [GitHub](https://github.com/geetharamson/MLASTASK2020.git)
 Machine Learning And Statistics module, Data Analytics Course, GMIT 2020
-This repository contains one single jupyter notebook called Tasks.ipynb which contains my solutions to four tasks that were assigned in this semester. Each task is  contained within its own section of the notebook with the references, I had used for research is at the end of each task section. 
+This repository contains one single jupyter notebook called TASKSMLS.ipynb which contains my solutions to four tasks that were assigned in this semester. Each task is  contained within its own section of the notebook with the references, I had used for research is at the end of each task section. 
 
 ---------------------------------
 ## HOW TO DOWNLOAD THE REPOSITORY
@@ -21,7 +21,7 @@ ___________________________
 + On the command line navigate to the folder location where the repository has been downloaded and saved to using the cd change directory command.
 + Type jupyter notebook on the command line and press enter
 + After a short wait jupyter notebook will open in your web browser.
-+ Open the **Tasks.ipynb** notebook in the browser and the notebook containing the code and comments that I wrote for this assignment will be displayed.
++ Open the **TASKSMLS.ipynb** notebook in the browser and the notebook containing the code and comments that I wrote for this assignment will be displayed.
 + If you want to run the code in any cell hold down the shift key and press enter and the command will run and the output wil be displayed in the next cell.
 + To change between edit and read mode at any time press the ESC key.
 + If you wish t run the entire notebook click Kernel in the toolbar at the top of the screen and then click Restart and run all. The notebook will refresh and all code cells will be executed from top to bottom.
@@ -39,10 +39,10 @@ Run Jupyter Notebooks from the repository with the following command:
 
 Jupyter Notebooks should open in your default web browser!
 
-# Task 1
+    # Task 1
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise. You should research the task first and include references and a description of your algorithm.
 
-# Task 2
+    # Task 2
 The Chi-squared test for independence is a statistical hypothesis test like a t-test. It is used to analyse whether two categorical variables are independent. The Wikipedia article gives the table below as an example, stating the Chi-squared value based on it is approximately 24.6. Use scipy.stats to verify this value and calculate the associated p value. You should include a short note with references justifying your analysis in a markdown cell.
  
  
@@ -56,13 +56,13 @@ The Chi-squared test for independence is a statistical hypothesis test like a t-
 
 
 
-# Task 3
+    # Task 3
 
 The standard deviation of an array of numbers x is calculated using numpy as np.sqrt(np.sum((x - np.mean(x))** 2)/len(x)) . 
 However, Microsoft Excel has two different versions of the standard deviation calculation, STDDEV.P and STDDEV.S. The STDDEV.P function 
 performs the above calculation but in the STDDEV.S calculation the division is by len(x)-1 rather than len(x).
 
-# Task 4
+    # Task 4
 
 Use **scikit-learn** to apply  *k-means clustering to Fisher’s famous Iris data set*. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
