@@ -31,13 +31,16 @@ The software can be downloaded and run on a machine as follows:
 
 Clone the repository with the following command
       
-     git clone [GitHub](https://github.com/geetharamson/MLASTASK2020.git)
+     git clone https://github.com/geetharamson/MLASTASK2020.git
 
 Run Jupyter Notebooks from the repository with the following command:
 
      jupyter notebook
 
 Jupyter Notebooks should open in your default web browser!
+
+Sometimes Github will not display the contents of the notebooks. If this happens, copy the url of the notebook page, and paste here: https://nbviewer.jupyter.org/
+I have included the URL of my TASKSMLS.ipynb notebook here also for convenience: https://github.com/geetharamson/MLASTASK2020/blob/main/TASKSMLS.ipynb
 
     # Task 1
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise. You should research the task first and include references and a description of your algorithm.
